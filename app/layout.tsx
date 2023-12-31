@@ -11,10 +11,10 @@ import { Header } from '@/components/header'
 export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
   title: {
-    default: 'Next.js AI Chatbot',
-    template: `%s - Next.js AI Chatbot`
+    default: '100xdocs AI Chatbot',
+    template: `%s - 100xdocs AI Chatbot`
   },
-  description: 'An AI-powered chatbot template built with Next.js and Vercel.',
+  description: 'An AI-powered chatbot for 100xdocs and beyond.',
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon-16x16.png',
